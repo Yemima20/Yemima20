@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+> 📦 I'm now active at [@gloriazaodyardy](https://github.com/gloriazaodyardy) — visit for latest projects!
+
 <!--
 **Yemima20/Yemima20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
